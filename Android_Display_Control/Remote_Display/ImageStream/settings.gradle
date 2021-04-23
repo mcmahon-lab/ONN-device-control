@@ -1,0 +1,2 @@
+include ':app', ':background'
+rootProject.name='Image Stream'
