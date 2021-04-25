@@ -6,18 +6,12 @@ The Jupyter notebooks for collecting data in the setup.
 
 
 run_MLP_MPPC_fc0.ipynb
---------------------
-...
-
 
 run_MLP_MPPC_fc1_2pcts.ipynb
---------------------
-...
-
 
 run_MLP_MPPC_fc2_2pcts.ipynb
 ----------------
-...
+The notebooks to implement the 3 full-connected (fc) layers in the trained neural network.
 
 
 run_rand_dotprod_711x711_STL10_MPPC.ipynb
