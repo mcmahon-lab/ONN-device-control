@@ -1,6 +1,6 @@
 # ONN-device-control
 
-This repository contains the device control modules for implementating the optical matrix-vector multiplier demonstrated in the following paper:
+This repository contains the device control modules for the optical matrix-vector multiplier demonstrated in the following paper:
 
 Author *et al.* (2021). An optical neural network using less than 1 photon per multiplication. *Journal Title, Volume* (Issue), page range. DOI
 
