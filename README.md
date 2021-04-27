@@ -2,9 +2,9 @@
 
 This repository contains the device control modules for the optical matrix-vector multiplier demonstrated in the following paper:
 
-Author *et al.* (2021). An optical neural network using less than 1 photon per multiplication. *Journal Title, Volume* (Issue), page range. DOI
+Tianyu Wang, Shi-Yuan Ma, Logan G. Wright, Tatsuhiro Onodera, Brian Richard and Peter L. McMahon (2021). An optical neural network using less than 1 photon per multiplication. *Manuscript in preparation*.
 
-The scripts for training neural networks executed in the experiments are available [here](https://github.com/mcmahon-lab/ONN-QAT-SQL).
+The codes for training the neural network model executed in the experiment are available [here](https://github.com/mcmahon-lab/ONN-QAT-SQL).
 
 ## [Android_Display_Control](https://github.com/mcmahon-lab/ONN-device-control/blob/master/Android_Display_Control)
 
