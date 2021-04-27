@@ -8,29 +8,29 @@ The codes for training the neural network model executed in the experiment are a
 
 ## [Android_Display_Control](https://github.com/mcmahon-lab/ONN-device-control/blob/master/Android_Display_Control)
 
-The Android control module to control the cell phone (OLED display).
+An Android application to control the OLED display of Google Pixel phone.
 
 Adopted from <https://github.com/chris-blay/android-open-accessory-bridge>.
 
 ## [NN_models](https://github.com/mcmahon-lab/ONN-device-control/blob/master/NN_models)
 
-Neural network model with trained parameters.
+The neural network models with trained parameters.
 
 The training code is available [here](https://github.com/mcmahon-lab/ONN-QAT-SQL).
 
 ## [SLM](https://github.com/mcmahon-lab/ONN-device-control/blob/master/SLM)
 
-The Python script to control the 1920 x 1152 Analog Spatial Light Modulator, Meadowlark Optics.
+The Python script to control the spatial light modulator (SLM, P1920-500-1100-HDMI, Meadowlark Optics).
 
 Adopted from <https://github.com/wavefrontshaping/slmPy>.
 
 ## [data_collection](https://github.com/mcmahon-lab/ONN-device-control/blob/master/data_collection)
 
-Jupyter notebooks that control the experimental setup to collect data.
+The Jupyter notebooks that control the experimental setup to collect data.
 
 ## [oscilloscope](https://github.com/mcmahon-lab/ONN-device-control/blob/master/oscilloscope)
 
-The Python script to control the oscilloscope that reads the data from the multi-pixel photon counter (MPPC, C13366 series GA type, Hamamatsu Photonics).
+The Python script to control the oscilloscope that reads data from the multi-pixel photon counter (MPPC, C13366 series GA type, Hamamatsu Photonics).
 
 ## [utils](https://github.com/mcmahon-lab/ONN-device-control/blob/master/utils)
 
