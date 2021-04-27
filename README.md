@@ -1,4 +1,4 @@
-# ONN-device-control
+# Device Control Modules for Optical Neural Networks (ONNs)
 
 This repository contains the device control modules for the optical matrix-vector multiplier demonstrated in the following paper:
 
