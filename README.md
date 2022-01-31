@@ -2,7 +2,7 @@
 
 This repository contains the device control modules for the optical matrix-vector multiplier demonstrated in the following paper:
 
->Tianyu Wang, Shi-Yuan Ma, Logan G. Wright, Tatsuhiro Onodera, Brian Richard and Peter L. McMahon (2021). An optical neural network using less than 1 photon per multiplication. https://arxiv.org/abs/2104.13467
+>Tianyu Wang, Shi-Yuan Ma, Logan G. Wright, Tatsuhiro Onodera, Brian Richard and Peter L. McMahon. "An optical neural network using less than 1 photon per multiplication" _Nature communications_ **13**, 123 (2022) https://doi.org/10.1038/s41467-021-27774-8
 
 The codes for training the neural network model executed in the experiment are available [here](https://github.com/mcmahon-lab/ONN-QAT-SQL).
 
